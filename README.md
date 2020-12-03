@@ -2,7 +2,7 @@
 
 =======  
 [Day 1 - Report Repair](/day_1)  
-[Day 2](/day_2)  
+[Day 2 - Password Philosophy](/day_2)  
 [Day 3](/day_3)  
 [Day 4](/day_4)  
 [Day 5](/day_5)  
